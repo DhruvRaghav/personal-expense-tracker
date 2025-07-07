@@ -69,3 +69,21 @@ python budget.py
 
 
 
+## Screenshots
+
+### 📌 Main Menu
+![Main Menu](https://github.com/DhruvRaghav/personal-expense-tracker/blob/main/sample%20screenshots/Screenshot%20from%202025-07-07%2014-07-13.png)
+
+### ➕ Adding Expense
+![Add Expense](https://github.com/DhruvRaghav/personal-expense-tracker/blob/main/sample%20screenshots/Screenshot%20from%202025-07-07%2014-07-21.png)
+
+### 📖 Viewing Expenses
+![View Expenses](https://github.com/DhruvRaghav/personal-expense-tracker/blob/main/sample%20screenshots/Screenshot%20from%202025-07-07%2014-07-32.png)
+
+### 💰 Budget Tracking
+![Budget](https://github.com/DhruvRaghav/personal-expense-tracker/blob/main/sample%20screenshots/Screenshot%20from%202025-07-07%2014-07-42.png)
+
+### 💾 Save Confirmation
+![Save Confirmation](https://github.com/DhruvRaghav/personal-expense-tracker/blob/main/sample%20screenshots/Screenshot%20from%202025-07-07%2014-06-58.png)
+
+
