@@ -49,15 +49,13 @@ project-directory/
 - date,category,amount,description
 - 2024-07-01,food,10.5,Lunch at cafeteria
 - 2024-07-02,transport,3.0,Bus fare
-
+```
 
 ## How to Run
 - Make sure Python 3 is installed on your system.
 
 - Then run the application using the terminal:t
 python budget.py
-
-
 
 
 
